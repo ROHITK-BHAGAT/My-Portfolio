@@ -841,6 +841,13 @@ nav ul li a:hover{
 .project:hover .layer{
     height: 100%;
 }
+/* change */
+#moreProject,#moreProject1{
+    display: none;
+}
+#moreBtn{
+    cursor: pointer;
+}
 
 /* contact */
 
