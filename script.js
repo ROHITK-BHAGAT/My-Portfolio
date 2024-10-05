@@ -21,6 +21,7 @@ let moreProject1=document.getElementById('moreProject1');
 function extraProject(){
     moreProject.style.display="block";
     moreProject1.style.display="block";
+    moreBtn.style.display="none"
 }
 moreBtn.addEventListener('click',extraProject)
 
